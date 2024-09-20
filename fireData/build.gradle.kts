@@ -51,6 +51,7 @@ dependencies {
 }
 
 afterEvaluate {
+
     publishing {
         publications {
             // Creates a Maven publication called "release".
